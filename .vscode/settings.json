@@ -1,0 +1,13 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "./NebulaC2/Cargo.toml",
+        "./NebulaC2/Cargo.toml",
+        "./NebulaC2/Cargo.toml",
+        "./NebulaC2/Cargo.toml",
+        "./NebulaC2/Cargo.toml",
+        "./NebulaC2/Cargo.toml",
+        "./NebulaC2/Cargo.toml",
+        "./NebulaC2/Cargo.toml"
+    ],
+    "rust-analyzer.showUnlinkedFileNotification": false
+}
